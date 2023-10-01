@@ -1,0 +1,35 @@
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:42:26 +0530] "GET /webapi/myresource HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:42:27 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:42:33 +0530] "GET /webapi/greeting HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:42:40 +0530] "GET /webapi/messenger/greeting HTTP/1.1" 404 785
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:44:03 +0530] "GET /messenger/webapi/messenger/greeting HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:44:18 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 200 63
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:15:44:32 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:01:05 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 500 5449
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:01:16 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 500 5448
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:01:34 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 500 5449
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:03:59 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 500 6618
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:04:06 +0530] "GET /messenger/webapi/ HTTP/1.1" 500 6621
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:04:11 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 500 6621
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:10:00 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 500 6621
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:11:21 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:11:27 +0530] "GET /messenger/webapi/resource HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:14:45 +0530] "GET /your-web-app-context/webapi/greeting/greeting HTTP/1.1" 404 809
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:14:58 +0530] "GET /messenger/webapi/greeting/greeting HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:15:05 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:16:33 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:19:04 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 500 6618
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:27:04 +0530] "GET /messenger/webapi/greeting HTTP/1.1" 500 5458
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:27:12 +0530] "GET /messenger/webapi/resource HTTP/1.1" 500 5458
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:27:17 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 500 5458
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:28:19 +0530] "GET /messenger/webapi/myresource HTTP/1.1" 500 5458
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:35:58 +0530] "-" 400 2199
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:35:58 +0530] "-" 400 2215
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:36:34 +0530] "GET /messenger/webapi/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:36:46 +0530] "GET /messengerwebapplication/webapi/ HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:36:49 +0530] "GET /messengerwebapplication/webapi/recource HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:16:37:00 +0530] "GET /messengerwebapplication/webapi/myresource HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:17:13:15 +0530] "GET /messengerwebapplication/webapi/ HTTP/1.1" 404 714
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:17:13:20 +0530] "GET /messengerwebapplication/webapi/myresource HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:17:14:43 +0530] "GET /messengerwebapplication/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [01/Oct/2023:17:14:45 +0530] "GET /messengerwebapplication/webapi/myresource HTTP/1.1" 200 7
